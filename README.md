@@ -1,3 +1,5 @@
+Ver tutorial https://www.youtube.com/watch?v=nZG6OyCT-qs&ab_channel=JuanMartinBarrientosLorusso
+
 Instructivo: Uso de un Script JavaScript para Mensajes Automáticos en Kick
 
 Requisitos Previos
